@@ -23,4 +23,6 @@
   <img src="https://img.shields.io/badge/-SQLite3-black?style=flat-square&logo=sqlite" />
 </p>
 
--->
+<p align="center">
+  <a href="https://github.com/AlvioAdjiJanuar"><img src="https://github-readme-stats.vercel.app/api?username=AlvioAdjiJanuar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
+</p>
