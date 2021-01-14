@@ -4,9 +4,6 @@
   <img src="https://avatars2.githubusercontent.com/u/68207798?s=400&u=29439908cd661d11443391cb74f5b07267b71117&v=4" />
 </p>
 
-<!--
-**AlvioAdjiJanuar/AlvioAdjiJanuar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🌱 I’m currently learning **Kenthu**.
 
 - 👀 I'm currently focusing on **JavaScript**.
