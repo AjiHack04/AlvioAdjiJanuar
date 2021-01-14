@@ -26,3 +26,11 @@
 <p align="center">
   <a href="https://github.com/AlvioAdjiJanuar"><img src="https://github-readme-stats.vercel.app/api?username=AlvioAdjiJanuar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff&hide_border=true&show_icons=true" /></a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/AlvioAdjiJanuar"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlvioAdjiJanuar&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&show_icons=true&layout=compact" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" /></a>
+</p>
